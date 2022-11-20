@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Martin and I study at the University of New Hampshire as Computer Science major<br>For 9 months I am learning Front End Development<br>During this time I have mastered HTML, CSS, JS<br>I made some study projects using the technologies above.<br>At University I am studying Python and IT technologies<br>Currently studying React.js and additional frameworks for further projects and job search<br><br><br>
+My name is Martin and I study at the University of New Hampshire at Computer Science major<br>For 9 months I was learning Front End Development<br>During this time I have mastered HTML, CSS, JS<br>I made some study projects using the technologies above.<br>At University I am studying Python and IT technologies<br>Currently studying React.js and additional frameworks for further projects and job search<br><br><br>
 
 
 ## 🌐 Socials:
