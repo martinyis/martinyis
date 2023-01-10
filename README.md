@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! My name is Martin and I am a Computer Science student at the University of New Hampshire. Over the past 9 months, I have been focused on Front End Development and have mastered HTML, CSS, and JS. I have built several projects using these technologies, and am now expanding my skills by studying Python and IT technologies. Currently, I am learning React.js and other frameworks to enhance my abilities and prepare for job opportunities. I am excited to continue growing and learning in the field of computer science.
+Hi there! My name is Martin and I am a Computer Science student at the University of New Hampshire. Over the past 9 months, I have been focused on Front End Development and have mastered HTML, CSS, and JS. I have built several projects using these technologies. Currently, I am learning React.js and other technoligies to enhance my abilities and prepare for job opportunities. I am excited to continue growing and learning in the field of computer science.
 
 
 ## 🌐 Socials:
