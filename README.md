@@ -1,9 +1,5 @@
 # 💫 About Me:
-React front-end developer studying at University of New Hampshire
-Expanding knowledge in back-end technologies, aiming for proficiency in MERN stack
-Experienced in creating websites and developing complex web applications
-Interested in networking and collaboration
-Check out my repositories for examples of my work.
+I'm a Software Engineer studying at the University of New Hampshire, passionate about creating innovative applications. Currently, I'm focused on building full-stack projects using MERN and Next.js for a well-rounded development experience.
 
 
 ## 🌐 Socials:
